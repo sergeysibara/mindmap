@@ -1,0 +1,79 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/app/tree/tree-node-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/tree/tree-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/tree/tree-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/tree/node-views/base-node-view-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/tree/node-views/base-node-view-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/tree/node-views/text-node-view-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/app-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/tree/tree-node-view-factory-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/utils/dom-utils-service-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/tree/node-views/text-with-image-node-view-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/tree/tree-node-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/views/mindmap/mindmap-ctrl-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/tree/tree-node-view-factory-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/tree/node-views/text-node-view-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/tree/connections/tree-connections-controller-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/tree/connections/tree-svg-connections-controller-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/utils/dom-utils-service-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/directives/draggable/jq-draggable-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/views/about/about-ctrl-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/views/mindmap/mindmap-ctrl-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/tree/node-models/node-model-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/app-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/directives/draggable/jq-draggable-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/tree/node-models/node-model-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/tree/connections/tree-connections-controller-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/tree/node-views/text-with-image-node-view-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/views/about/about-ctrl-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/app/tree/connections/tree-svg-connections-controller-compiled-compiled.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/dev/custom-logic/tree-library/graphic/tree-canvas-renderer-compiled.js" />
+      <root url="file://$PROJECT_DIR$/app/dev/custom-logic/tree-library/node-views/node-view-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/app/dev/custom-logic/tree-library/graphic/tree-renderer-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/app/dev/custom-logic/tree-library/graphic/tree-svg-renderer-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/app/dev/custom-logic/tree-library/node-models/node-model-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/app/dev/custom-logic/tree-library/tree-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/app/dev/custom-logic/tree-library/tree-node-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/app/dev/custom-logic/tree-library/graphic/tree-canvas-renderer-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/app/dev/directives/tree-node/mm-tree-node-compiled.js" />
+      <root url="file://$PROJECT_DIR$/app/dev/views/MindMap/view2Ctrl-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/libraries/angular/angular-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/libraries/angular-route/angular-route-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/tree/tree-node-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/tree/tree-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/tree/tree-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/tree/node-views/base-node-view-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/tree/node-views/base-node-view-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/tree/node-views/text-node-view-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/app-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/tree/tree-node-view-factory-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/utils/dom-utils-service-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/tree/node-views/text-with-image-node-view-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/tree/tree-node-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/views/mindmap/mindmap-ctrl-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/tree/tree-node-view-factory-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/tree/node-views/text-node-view-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/tree/connections/tree-connections-controller-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/tree/connections/tree-svg-connections-controller-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/utils/dom-utils-service-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/directives/draggable/jq-draggable-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/views/about/about-ctrl-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/views/mindmap/mindmap-ctrl-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/tree/node-models/node-model-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/app-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/directives/draggable/jq-draggable-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/tree/node-models/node-model-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/tree/connections/tree-connections-controller-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/tree/node-views/text-with-image-node-view-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/views/about/about-ctrl-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/app/tree/connections/tree-svg-connections-controller-compiled-compiled.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

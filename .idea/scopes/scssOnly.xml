@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="scssOnly" pattern="(file[MindMap]:app/dev//*&amp;&amp;!file[MindMap]:src/app/*||file[MindMap]:src/app//*)&amp;&amp;!file[MindMap]:src/app/directives//*&amp;&amp;!file[MindMap]:src/app/tree//*&amp;&amp;!file[MindMap]:src/app/utils//*&amp;&amp;!file[MindMap]:src/app/views//*&amp;&amp;!file:src/app/app-compiled.js&amp;&amp;!file:src/app/app-compiled.js.map&amp;&amp;!file:src/app/app.js&amp;&amp;!file:src/app/index.html&amp;&amp;!file:src/app/app-compiled-compiled.js&amp;&amp;!file:src/app/app-compiled-compiled.js.map&amp;&amp;!file[MindMap]:src/app/content/*" />
+</component>
